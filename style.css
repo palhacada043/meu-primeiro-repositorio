@@ -1,5 +1,4 @@
-
-body(
-    text-allgn: center:
+body
+text-allgn:center;
 {background-color: rgba(247, 152, 192, 0.836);}
-)
+}
