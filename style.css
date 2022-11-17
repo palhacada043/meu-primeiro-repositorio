@@ -1,4 +1,4 @@
-body
-text-allgn:center;
-{background-color: rgba(247, 152, 192, 0.836);}
+body{
+text-align:center;
+background-color: rgba(247, 152, 192, 0.836);
 }
